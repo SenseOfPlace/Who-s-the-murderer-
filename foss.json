@@ -1,0 +1,40 @@
+{
+  "squadName" : "Who's the murderer?",
+  "homeTown" : "Mango TV",
+  "formed" : 2018,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Beining  Sa",
+      "age" : 40,
+      "secretIdentity" : "侦探",
+      "powers" : [
+        "撒明灯",
+        "盛世美颜",
+        "央视主持人"
+      ]
+    },
+    {
+      "name" : "Jiong  He",
+      "age" : 40,
+      "secretIdentity" : "推理者",
+      "powers" : [
+        "推理小王子",
+        "搜证王",
+        "湖南卫视著名主持人"
+      ]
+    },
+    {
+      "name" : "Wang O",
+      "age" :  18,
+      "secretIdentity" : "murder",
+      "powers" : [
+        "beautiful",
+        "nice",
+        "理想型",
+        "演员"
+      ]
+    }
+  ]
+}
