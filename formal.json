@@ -6,7 +6,7 @@
   "active" : true,
   "members" : [
     {
-      "name" : "SA  BEI NING",
+      "name" : "Sa Bei Ning",
       "age" : 40,
       "secretIdentity" : "侦探",
       "powers" : [
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "name" : "HE JIONG",
+      "name" : "Jiong He",
       "age" : 40,
       "secretIdentity" : "推理者",
       "powers" : [
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "name" : "WANG O",
+      "name" : "Wang O",
       "age" :  18,
       "secretIdentity" : "murder",
       "powers" : [
